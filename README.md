@@ -62,6 +62,17 @@ We validate data depth and coverage against a set of test regions intentionally 
 
 These test regions are a starting point. The long-term vision is **SolumBench**, a standalone evaluation suite (separate repository, coming soon) that will run as CI against a much larger set of zones covering every major climate region and most countries, producing coverage and depth reports automatically.
 
+### Known Gaps
+
+Healthy soil is not just minerals and chemistry. It's a living ecosystem, and our data doesn't yet reflect that fully. The biggest gaps we're actively working to fill:
+
+- **Insects and pollinators.** Soil health depends on insects at every level, from earthworms and beetles breaking down organic matter to pollinators sustaining the plants that hold soil together. We don't have dedicated entomological datasets yet.
+- **Animals and wildlife.** Grazing patterns, burrowing animals, bird-driven seed dispersal, and predator-prey dynamics all shape the land. We need wildlife interaction data.
+- **Chemical contamination.** Pesticides, herbicides, PFAS, heavy metals, and industrial runoff have profound effects on soil biology and what can safely grow. We need contamination and remediation data.
+- **Natural and man-made disasters.** Floods, fire, drought, oil spills, and industrial accidents reshape soil health in ways that persist for decades. Understanding disaster impact and recovery is critical for real-world advice.
+
+These are all areas we will be actively correcting over the coming days.
+
 ## Contributing
 
 Solum is not accepting code contributions at this time. The project is early enough that the technical direction is still taking shape.
