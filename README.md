@@ -69,7 +69,7 @@ Healthy soil is not just minerals and chemistry. It's a living ecosystem, and ou
 - **Insects and pollinators.** Soil health depends on insects at every level, from earthworms and beetles breaking down organic matter to pollinators sustaining the plants that hold soil together. We don't have dedicated entomological datasets yet.
 - **Animals and wildlife.** Grazing patterns, burrowing animals, bird-driven seed dispersal, and predator-prey dynamics all shape the land. We need wildlife interaction data.
 - **Chemical contamination.** Pesticides, herbicides, PFAS, heavy metals, and industrial runoff have profound effects on soil biology and what can safely grow. We need contamination and remediation data.
-- **Natural and man-made disasters.** Floods, fire, drought, oil spills, and industrial accidents reshape soil health in ways that persist for decades. Understanding disaster impact and recovery is critical for real-world advice.
+- **Natural and man-made disasters.** Floods, fire, drought, oil spills, and industrial accidents reshape soil health in ways that persist for decades. We need both historical event data tied to specific locations and general knowledge about how different types of disasters affect soil and ecosystems. Understanding both what happened where and what those events do to the land is critical for real-world advice.
 
 These are all areas we will be actively correcting over the coming days.
 
